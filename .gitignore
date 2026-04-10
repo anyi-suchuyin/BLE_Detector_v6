@@ -1,0 +1,31 @@
+```
+# Build artifacts
+.pio/build/
+.pio/libdeps/
+.pio/platforms/
+.pio/packages/
+
+# Dependencies
+lib/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+```
